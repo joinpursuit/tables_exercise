@@ -34,3 +34,8 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+
+.side {
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+}
